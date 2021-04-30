@@ -1,0 +1,58 @@
+body {
+    background-image: url('images/welcome.jpg');
+    background-color: rgb(129, 157, 189) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+  
+.Banana{
+margin-left: auto;
+margin-right: auto;
+}
+
+header{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(221, 220, 220);
+    margin-left: 850px;
+}
+
+
+nav{
+color: rgb(221, 220, 220);
+font-size: 18px;
+text-align: right;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(221, 220, 220);
+    margin-right: 180px;
+    font-size: 12px;
+}
+
+main{
+height: 400px;
+text-align: center;
+padding-top: 80px;
+}
+
+footer{
+  height: 80px;
+  margin-top: 100px
+}
+ 
+
+footer p{
+    text-align: center;
+    font-size: 23px;
+    color: rgba(255, 255, 255, 0.562);
+    padding-top: 23px;
+}
+
+form{
+    margin-left: 860px;
+}
