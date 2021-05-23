@@ -1,0 +1,64 @@
+body{
+    background-image: url(pictures/table.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+
+.header{
+    /*padding-bottom: 10px;
+    text-align: center;
+    background: #54bddd;
+    
+    font-size: 20px;*/
+    
+}
+
+img{
+    
+    width: 500px;
+    padding-right: 1020px;
+}
+ul{
+    float: left;
+    color: rgb(72, 9, 190);
+}
+li{
+    display: inline-block;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+
+#thesecond{
+     border: solid 1px rgb(110, 178, 235);
+     border-top: hidden;
+     
+     
+    width: 550px;
+    height: 495px;
+    margin: auto; 
+    margin-top: 150px;   
+
+}
+h1{
+    font-size: 10px;
+    padding-left: 10px;
+    
+    color: black;
+}
+h6{
+    padding-left: 200px;
+}
+form{
+    
+    color: red;
+    font-size: 30px;
+    
+}
+#thesender{
+    width: 500px;
+    
+}

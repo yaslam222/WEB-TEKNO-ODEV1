@@ -1,0 +1,37 @@
+
+body{
+    background-color: #f4d58d;
+    width: 500px;
+}
+h1{
+    font-size: 60px;
+    padding-left: 750px;
+    padding-top: 10px;
+    position: fixed;
+    color: #bf0603;
+}
+div3{
+    color: #bf0603;
+    position: fixed;
+    padding-left: 230px;
+    font-size: 100px;
+    padding-top: 230px;
+ 
+}
+div{
+    font-size: 60px;
+    position: fixed;
+    color: #bf0603;
+    padding-top: 300px;
+    padding-left: 800px;
+
+}
+div1{
+    font-size: 60px;
+    color: #bf0603;
+    padding-top: 500px;
+   padding-left: 70px;
+    position: fixed;
+
+}
+

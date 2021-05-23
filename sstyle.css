@@ -1,0 +1,40 @@
+body{
+  background-color: #ffcccc;
+}
+
+img{
+    
+  width: 500px;
+  padding-right: 1020px;
+}
+
+ul{
+  float: left;
+  color: rgb(72, 9, 190);
+}
+li{
+  display: inline-block;
+  padding-right: 30px;
+  font-size: 20px;
+}
+
+.imageler{
+  padding-left: 700px;
+  padding-top: 100px;
+  
+}
+
+h1{
+  padding-left: 700px;
+}
+
+p{
+  font-size: 50px;
+  padding-left: 100px;
+}
+
+
+
+
+
+
